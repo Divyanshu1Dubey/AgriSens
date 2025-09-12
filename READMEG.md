@@ -217,10 +217,10 @@ These results demonstrate the effectiveness of the Smart Crop Recommendation Sys
 
 
 ## 👨‍💻 CONTRIBUTERS
-- [Ravikant Diwakar](https://github.com/ravikant-diwakar)
-- [Amit Kumar](https://github.com/AMITKUMAR7970)
-- [Gaurav Kumar](https://github.com/Gauravkumar1741)
-- Aditya Chaudhary
+- [Gopal](https://github.com/pandeygopal)
+- [Divyanshu Dubey](https://github.com/Divyanshu1Dubey)
+- [Atharv Gehlot](https://github.com/atharvs3)
+- [Utkarsh Chaudhary](https://github.com/ukchaudhary-16)
 
 ## 📷 Screenshots
 
