@@ -251,7 +251,7 @@ These results demonstrate the effectiveness of the Smart Crop Recommendation Sys
 
 ## 📧 Contact
 
-If you have any questions or feedback, feel free to reach out to us at [🔗Link](https://agrisens.netlify.app/form/).
+If you have any questions or feedback, feel free to reach out to us at []).
 
 ---
 
