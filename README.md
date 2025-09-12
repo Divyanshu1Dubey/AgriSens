@@ -226,7 +226,7 @@ These results demonstrate the effectiveness of the Smart Crop Recommendation Sys
 
 | Team Members | Contact Us |
 | --------- | --------- |
-| ![Screenshot 2025-03-22 105046](https://github.com/user-attachments/assets/1e15fa2b-afb1-4fa1-b743-a72af6dcd3c1) | ![Screenshot 2025-03-22 105141](https://github.com/user-attachments/assets/f3e6a7ca-9ebd-41c5-88c1-fd6e1f6528e9) |
+| ![Screenshot 2025-03-22 105046]([https://github.com/user-attachments/assets/1e15fa2b-afb1-4fa1-b743-a72af6dcd3c1](https://github.com/Divyanshu1Dubey/AgriSens/blob/main/AgriSens-master/WhatsApp%20Image%202025-09-12%20at%2021.27.25_85a69770.jpg)) | ![Screenshot 2025-03-22 105141](https://github.com/user-attachments/assets/f3e6a7ca-9ebd-41c5-88c1-fd6e1f6528e9) |
 
 | Crop Recommendation | Plant Disease Identification |
 | --------- | --------- |
